@@ -1,0 +1,34 @@
+@import "../../scss/variables";
+
+.intro {
+  min-height: 100vh;
+  padding: 180px 0 60px;
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+  max-width: 755px;
+  margin: 0 auto;
+  padding: 5px 10px;
+}
+
+.title{
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 67px;
+  color: #30233D;
+}
+.subtitle{
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 40px;
+}
+
+.top_title{
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 26px;
+  letter-spacing: 6px;
+  color: #F61067;
+}

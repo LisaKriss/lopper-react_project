@@ -1,0 +1,21 @@
+{
+  "intro": {
+  "block": [
+    {
+      "img": "item_img_webdes.svg",
+      "title": "Webdesign",
+      "text": "Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. "
+    },
+    {
+      "img": "item_img_webdev.svg",
+      "title": "Webdevelopment",
+      "text": "Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. "
+    },
+    {
+      "img": "item_img_marketing.svg",
+      "title": "Marketing",
+      "text": "Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. "
+    }
+  ]
+  }
+}
